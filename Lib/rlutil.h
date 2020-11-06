@@ -625,7 +625,6 @@ RLUTIL_INLINE void hidecursor(void) {
 	setCursorVisibility(0);
 }
 
-
 /// Function: showcursor
 /// Shows the cursor.
 RLUTIL_INLINE void showcursor(void) {
