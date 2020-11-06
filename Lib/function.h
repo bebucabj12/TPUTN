@@ -3,4 +3,5 @@
 
 void array_initialize(int [], int);
 
+
 #endif // FUNCTION_H_INCLUDED

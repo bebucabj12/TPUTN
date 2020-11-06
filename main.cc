@@ -15,6 +15,7 @@ int main() {
     for(int i = 0; i < 15; i++){
         cout << pescador[i];
     }
+    
 
     //cls();
     // setColor(WHITE);
